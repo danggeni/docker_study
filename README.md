@@ -48,7 +48,7 @@ ex) sudo apt install -y docker-ce=18.03 ce-0 ubuntu
 ---
 아래 처럼 버전이 확인 된다면 정상적으로 설치 확인
 
-![docker-version](docker_version.png)
+![docker_version](https://user-images.githubusercontent.com/10123843/67620797-9fdcf280-f845-11e9-83e6-fc425ec8391c.png)
 
 ## docker 명령어 Sudo 없이 사용하기
 ---
